@@ -28,12 +28,20 @@ By default Quake is installed into `x:/quake`.
         /configs
         /sb
     /qw
+        /crosshairs
+        /env                //skyboxes
         /maps
+        /gfx                //conbacks, etc.
+        /lits
         /progs
         /skins
         /sound
         /textures
             /bmodels
             /charsets
+            /levelshots
             /models
+            /scrollbars
+            /tracker
+            /wad            //hud items, like face, numbers, etc.
 ```
